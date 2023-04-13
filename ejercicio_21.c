@@ -1,4 +1,4 @@
-//Ejercicio 12: Leer un número entero de 3 dígitos y determinar si tiene el dígito 1.
+//Ejercicio 21: Leer un número entero y determinar a cuánto es igual la suma de sus dígitos.
 //Se incluye la librería <stdio.h> para utilizar las funciones printf y scanf.
 #include <stdio.h>
 
